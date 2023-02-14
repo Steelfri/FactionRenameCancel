@@ -1,0 +1,7 @@
+name: FactionRenameCancel
+version: '${project.version}'
+main: fr.steelfri.factionrenamecancel.FactionRenameCancel
+api-version: 1.19
+depend: [ Factions ]
+authors: [ Steelfri ]
+description: Make impossible to rename faction
